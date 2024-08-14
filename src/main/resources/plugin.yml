@@ -6,3 +6,6 @@ authors: [ Annhilati ]
 website: https://github.com/Blazes-Meta
 commands:
   test:
+permissions:
+  metatools.test:
+    default: true
