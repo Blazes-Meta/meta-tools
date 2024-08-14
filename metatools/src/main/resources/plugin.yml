@@ -1,0 +1,6 @@
+name: MetaTools
+version: '1.0-SNAPSHOT'
+main: org.BlazesMeta.metaTools.MetaTools
+api-version: '1.21'
+authors: [ Annhilati ]
+website: https://github.com/Blazes-Meta
