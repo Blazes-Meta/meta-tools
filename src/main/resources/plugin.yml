@@ -9,3 +9,5 @@ commands:
 permissions:
   metatools.test:
     default: true
+  metatools.restart:
+    default: op
